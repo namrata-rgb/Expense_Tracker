@@ -29,7 +29,7 @@ step 9: open the index.html from the directory
 
 ## Screenshots
 
-![Alt text](Screenshorts/Screenshot%20(544).png)
-![Alt text](Screenshorts/Screenshot%20(546).png)
-![Alt text](Screenshorts/Screenshot%20(547).png)
-![Alt text](Screenshorts/Screenshot%20(548).png)
+![Alt text](Screenshorts/Screenshot1.png)
+![Alt text](Screenshorts/Screenshot2.png)
+![Alt text](Screenshorts/Screenshot3.png)
+![Alt text](Screenshorts/Screenshot4.png)
