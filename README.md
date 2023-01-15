@@ -17,15 +17,15 @@ Hello! I'm your guide to expense tracker project. read me to run the project.
 	- ASP.NET Core Cors
 	- Swagger
 ## Steps for installation
-step 1: open visual studio
-step 2: install the prerequisites
-step 3: load the project
-step 4: change server name in connection string (present in appsettings.json file)
-step 5: add migration in your pacakage manager
-step 6: use command update-database in your package manager
-step 7: run the program
-step 8: let the swagger run
-step 9: open the index.html from the directory
+1. open visual studio
+2. install the prerequisites
+3. load the project
+4. change server name in connection string (present in appsettings.json file)
+5. add migration in your pacakage manager
+6. use command update-database in your package manager
+7. run the program
+8. let the swagger run
+9. open the index.html from the directory
 
 
 ** NOTE :  Use the frontend folder for UI content **
