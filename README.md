@@ -20,12 +20,21 @@ Hello! I'm your guide to expense tracker project. read me to run the project.
 step 1: open visual studio
 step 2: install the prerequisites
 step 3: load the project
-step 4: create models
+step 4: change server name in connection string (present in appsettings.json file)
 step 5: add migration in your pacakage manager
 step 6: use command update-database in your package manager
 step 7: run the program
 step 8: let the swagger run
 step 9: open the index.html from the directory
+
+
+** NOTE :  Use the frontend folder for UI content **
+
+
+## Process 
+
+1. Create Category (Add , edit , delete) --> Set Category Name and Limit.
+2. Add Expense for the respective categories --> Add expense details such as Name,Type,Date.
 
 ## Screenshots
 
